@@ -2,7 +2,7 @@
 This is a single file with banlist for MemeLiga.
 
 # How to 'install'
-Simply download this file and put it in your ***ProjectIgnis*** directory in ***/repositories/lflists subdirectory***, just like on picture below.
+Simply download ***MemeLiga.lflist.conf*** file and put it in your ***ProjectIgnis*** directory in ***/repositories/lflists subdirectory***, just like on picture below.
 
 ![WhereToSave](https://user-images.githubusercontent.com/62035538/209576329-0924e494-9d38-4c72-bada-14760cabc5b8.png)
 
